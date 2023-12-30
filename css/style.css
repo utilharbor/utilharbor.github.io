@@ -8258,8 +8258,13 @@ h1, h2, h3, h4, h5,
   font-weight: 500;
   background: #069;
   padding: 10px 15px;
+  margin-top: 10px;
   border-radius: 15px;
   color: #fff; }
+
+.hidden{
+  display: none;
+}
 
 .slider-text .breadcrumbs {
   font-size: 16px;
